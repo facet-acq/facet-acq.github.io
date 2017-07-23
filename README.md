@@ -6,7 +6,7 @@ Federation of Administration for Contract and Entitlement Transactions
 
 Please pardon our dust while we bring a 'new' concept of the future to life for an underserved sector of the US government purchasing process.
 
-![futuristic hallway[(assets/hall.jpg)
+![futuristic hallway](assets/hall.jpg)
 
 More information and actually useful data will be forthcoming as schedule allows updates to post.
 
